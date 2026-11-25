@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# Power BI temporary files
+*.tmp
+*.bak
+
+# Raw dataset - link to the original source instead
+data/raw/*.csv
+
+# Operating system
+Thumbs.db
+.DS_Store

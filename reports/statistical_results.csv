@@ -1,0 +1,5 @@
+Analysis,Test,Statistic,P-value,Effect Size,Effect Size Name,Minimum Expected Count,Holm Adjusted P-value,Significant After Correction
+Overtime vs Attrition,Chi-square,87.56429365828768,8.158423721538322e-21,0.24406463632881792,Cramer's V,67.06938775510204,3.2633694886153287e-20,True
+Department vs Attrition,Chi-square,10.79600732241067,0.004525606574479634,0.0856984402909795,Cramer's V,10.157142857142857,0.004525606574479634,True
+Monthly Income vs Attrition,Mann-Whitney U,191600.5,2.950830917288873e-14,0.3113397052231017,Rank-biserial correlation,,8.852492751866619e-14,True
+Years at Company vs Attrition,Mann-Whitney U,189639.0,2.916191369956416e-13,0.29791493424497206,Rank-biserial correlation,,5.832382739912832e-13,True
